@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="4c743c54-c5d3-4096-8c7b-86d5af6191b2" name="RestTestSuite1" xmlns:con="http://eviware.com/soapui/config"><con:description>TestSuite generated for REST Service [https://restcountries.eu]</con:description><con:settings><con:setting id="4c743c54-c5d3-4096-8c7b-86d5af6191b2fileName">RestTestSuite1</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
